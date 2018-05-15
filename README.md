@@ -3,14 +3,11 @@ This skills will let your mycroft can create random number
 
 
 ## Description 
-A more verbose description, including any extra instructions or
-information that didn't fit in the one line.
+This skill will let mycroft create n number from a to b
 
 ## Examples 
-* "Hello world"
-* "Greetings planet earth"
-* "Count up"
-* "Count down"
+* "Random from a to b"
+* "Random n from a to b"
 
 ## Credits 
 HellCatVN
